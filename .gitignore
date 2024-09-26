@@ -1,4 +1,7 @@
-*.sw*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
 .coverage
-.pytest_cache
-*__pycache__
+.pytest_cache/
